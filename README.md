@@ -1,1 +1,1 @@
-# gitstar-js
+# git*-js
